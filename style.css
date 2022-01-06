@@ -20,7 +20,8 @@ body{
  }
 
  .half-1 img{
-     width: 100%;
+     width: 60%;
+     margin-left: 20px;
  }
 
 .link-button{
@@ -34,3 +35,24 @@ body{
     
 
 }
+
+
+.top-text{
+    width: 50%;
+    margin-left: 20px;
+    text-align: justify;
+}
+
+.container{
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.dream-1{
+    display: flex;
+}
+.dream-2{
+    display: flex;
+}
+
